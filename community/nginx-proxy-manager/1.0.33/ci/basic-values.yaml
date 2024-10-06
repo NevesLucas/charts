@@ -1,7 +1,7 @@
 npmNetwork:
   webPort: 31000
-  httpPort: 31001
-  httpsPort: 31002
+  httpPort: 80
+  httpsPort: 443
 
 npmStorage:
   data:
